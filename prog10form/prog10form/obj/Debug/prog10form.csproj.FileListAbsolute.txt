@@ -1,0 +1,20 @@
+C:\Users\host\source\repos\prog10form\prog10form\bin\Debug\prog10form.exe.config
+C:\Users\host\source\repos\prog10form\prog10form\bin\Debug\prog10form.exe
+C:\Users\host\source\repos\prog10form\prog10form\bin\Debug\prog10form.pdb
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.csprojAssemblyReference.cache
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.Form1.resources
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.Properties.Resources.resources
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.csproj.GenerateResource.cache
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.csproj.CoreCompileInputs.cache
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.exe
+C:\Users\host\source\repos\prog10form\prog10form\obj\Debug\prog10form.pdb
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\bin\Debug\prog10form.exe.config
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\bin\Debug\prog10form.exe
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\bin\Debug\prog10form.pdb
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.Form1.resources
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.Properties.Resources.resources
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.exe
+C:\Учебная практика\Неделя 3 Задание 10\prog10form\prog10form\obj\Debug\prog10form.pdb

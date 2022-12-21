@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\bin\Debug\prog10.exe.config
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\bin\Debug\prog10.exe
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\bin\Debug\prog10.pdb
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\obj\Debug\prog10.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\obj\Debug\prog10.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\obj\Debug\prog10.exe
+C:\Учебная практика\Неделя 3 Задание 10\prog10\prog10\obj\Debug\prog10.pdb
